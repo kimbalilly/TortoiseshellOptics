@@ -25,7 +25,6 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   flex-direction: column;
-  border: solid 3px blue;
  }
 
 .nav-container {
@@ -36,7 +35,6 @@ header {
   color: white;
   justify-content: space-between;
   background-color: cadetblue;
-  border: solid 3px lightblue;
  }
 
 .mobile-nav-container {
@@ -47,7 +45,6 @@ header {
   display: flex;
   align-items: center;
   padding-left: 2rem;
-  border: solid 3px mediumblue;
  }
 
 .logo img {
@@ -64,7 +61,6 @@ header {
   align-items: center;
   width: 15rem;
   justify-content: space-between;
-  border: solid 3px darkblue;
   margin-right: 2rem;
  }
 
@@ -75,10 +71,8 @@ header {
 .copy-container {
   display: flex;
   justify-content: flex-end;
-
   margin: 0 auto;
   width: 960px;
-  border: solid 3px lightblue;
 }
 
 .copy-container .copy {
@@ -101,7 +95,6 @@ header {
   display: flex;
   max-width: 960px;
   margin: auto;
-  border: solid 3px green;
 }
 
 .supporting {
@@ -141,7 +134,6 @@ header {
 .info {
   display: flex;
   justify-content: center;
-  border: solid 3px purple;
 }
 
  .container {
@@ -179,7 +171,6 @@ footer {
   width: 960px;
   margin: auto;
   background-color: azure;
-  border: solid 3px pink;
 }
 
 .footer {
@@ -217,7 +208,7 @@ footer {
 
   .copy-container .copy {
     width: auto;
-    margin-top: 5rem;
+    margin-top: 9rem;
     margin-right: 2rem;
     padding: 0.75rem 3rem;
   }
@@ -354,7 +345,6 @@ footer {
     height: 2.5rem;
     color: white;
     background-color: cadetblue;
-    border: solid 3px lightblue;
     justify-content: space-between;
   }
 
